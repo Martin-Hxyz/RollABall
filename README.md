@@ -40,3 +40,5 @@ Hér býrð þú til nýja game objecta, og breytt eða deletað.
 Hér koma upp allskonar upplýsingar um það sem þú hefur valið.
 T.d. breytir þú objectum hér, setur inn componenta á þá, breytir allskonar gildum.
 
+
+[Youtube Myndband](https://youtu.be/x1qmH0WUjAw)
